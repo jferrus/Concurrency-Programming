@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Ricard
+ * @author Ricard y Jose
  */
 public class Ejercicio2P6LP {
 
